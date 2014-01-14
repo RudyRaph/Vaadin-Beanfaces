@@ -1,0 +1,3 @@
+INSERT INTO `beanfaces_test`.`canal` (`ID`, `CDECANAL`, `label`) VALUES (1, 'VIS', 'Visualisation'),(2, 'IPC', 'Impression centrale'),(3, 'IPL', 'Impression locale'),(4, 'ARC', 'Archivage');
+INSERT INTO `beanfaces_test`.`type` (`idtype`, `cdeType`, `label`) VALUES (NULL, 'cd1', 'Type 1'), (NULL, 'cd2', 'Type 2');
+INSERT INTO `beanfaces_test`.`model` (`idMod`, `cde`, `label`) VALUES (NULL, 'mod1', 'Modèle 1'), (NULL, 'mod2', 'Modèle 2');
