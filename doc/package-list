@@ -1,0 +1,7 @@
+rds.vaadin.beanfaces
+rds.vaadin.beanfaces.definitions
+rds.vaadin.beanfaces.impl.introspection
+rds.vaadin.beanfaces.impl.introspection.annotations
+rds.vaadin.beanfaces.utils
+test
+test.entities
